@@ -1,5 +1,5 @@
 # scraping-udaipur-voter-rolls
-Python code for automatically downloading and writing list of publicly available voter IDs and data from Udaipur district, Rajasthan
+Python code for automatically downloading and writing list of publicly available voter IDs and data from Udaipur district, Rajasthan.
 
 # workflow 
 The 3 files in this repository execute a program which scrapes all the data available for voters registered in Udaipur district, Rajasthan. This information is located on the web-site of the Election Commissioner of Rajasthan. Here is the work-flow: 
