@@ -4,10 +4,10 @@
 #------Thursday, Feb. 23rd 2017--#
 #--------------------------------#
 
-#Importing relevant libraries 
+## Importing relevant libraries 
 import requests, os, time
 
-#Beginning timer
+## Beginning timer
 start_time = time.time()
 
 #Description:
