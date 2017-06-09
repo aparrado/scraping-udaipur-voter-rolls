@@ -9,10 +9,10 @@
 ### Household IDs are extracted with an error
 ### Voter IDs are extracted exactly
 
-## Changes to be made: 
-## Don't open a new instance of the browser for each voter ID, just clear the text box and then input
-## Error handling
-## Download draft voter rolls 
+### Changes to be made: 
+### Don't open a new instance of the browser for each voter ID, just clear the text box and then input
+### Error handling
+### Download draft voter rolls 
 
 ## Importing required packages
 import PyPDF2, re, time, string, pandas
