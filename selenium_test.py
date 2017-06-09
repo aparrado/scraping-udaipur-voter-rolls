@@ -4,10 +4,10 @@
 #------Monday, Feb. 27th 2017----#
 #--------------------------------#
 
-## Will modify this description once this code is tested!!
-## This code takes in a voter ID and then uses the Python Selenium package to automatically interact with the website
-## It writes the collected data to a .csv file 
-## It returns a list of voter IDs in the same household
+### Will modify this description once this code is tested!!
+### This code takes in a voter ID and then uses the Python Selenium package to automatically interact with the website
+### It writes the collected data to a .csv file 
+### It returns a list of voter IDs in the same household
 
 ## Changes to be made: 
 ## Don't open a new instance of the browser for each voter ID, just clear the text box and then input
